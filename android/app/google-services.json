@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956947270419",
+    "project_id": "apnachetapp",
+    "storage_bucket": "apnachetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956947270419:android:dcafb337b11397513f68e6",
+        "android_client_info": {
+          "package_name": "com.example.chetapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956947270419-48c4mv1lsga0amiei6ci7k8s64b51o57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1z9eCCuyE98qqkzvcEr-DxCeo68XLSKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956947270419-48c4mv1lsga0amiei6ci7k8s64b51o57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
